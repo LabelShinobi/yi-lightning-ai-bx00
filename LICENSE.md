@@ -1,4 +1,4 @@
-# 
+# Ligero Yi-Lightning plugins. Con razonamiento automatizado y IA explicable — optimizado para el máximo rendimiento y eficiencia.
 
 
 
